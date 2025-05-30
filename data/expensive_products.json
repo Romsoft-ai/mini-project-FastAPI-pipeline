@@ -1,0 +1,72 @@
+[
+    {
+        "id":170,
+        "title":"Durango SXT RWD",
+        "price":36999.99,
+        "category":"vehicle",
+        "has_return_policy":true
+    },
+    {
+        "id":168,
+        "title":"Charger SXT RWD",
+        "price":32999.99,
+        "category":"vehicle",
+        "has_return_policy":false
+    },
+    {
+        "id":171,
+        "title":"Pacifica Touring",
+        "price":31999.99,
+        "category":"vehicle",
+        "has_return_policy":true
+    },
+    {
+        "id":167,
+        "title":"300 Touring",
+        "price":28999.99,
+        "category":"vehicle",
+        "has_return_policy":true
+    },
+    {
+        "id":169,
+        "title":"Dodge Hornet GT Plus",
+        "price":24999.99,
+        "category":"vehicle",
+        "has_return_policy":true
+    },
+    {
+        "id":191,
+        "title":"Rolex Cellini Moonphase",
+        "price":15999.99,
+        "category":"womens-watches",
+        "has_return_policy":true
+    },
+    {
+        "id":115,
+        "title":"MotoGP CI.H1",
+        "price":14999.99,
+        "category":"motorcycle",
+        "has_return_policy":true
+    },
+    {
+        "id":98,
+        "title":"Rolex Submariner Watch",
+        "price":13999.99,
+        "category":"mens-watches",
+        "has_return_policy":true
+    },
+    {
+        "id":96,
+        "title":"Rolex Cellini Moonphase",
+        "price":12999.99,
+        "category":"mens-watches",
+        "has_return_policy":true
+    },
+    {
+        "id":97,
+        "title":"Rolex Datejust",
+        "price":10999.99,
+        "category":"mens-watches",
+        "has_return_policy":true
+    }
+]

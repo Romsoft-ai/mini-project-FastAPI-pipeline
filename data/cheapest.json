@@ -1,0 +1,72 @@
+[
+    {
+        "id":31,
+        "title":"Lemon",
+        "price":0.79,
+        "category":"groceries",
+        "has_return_policy":true
+    },
+    {
+        "id":42,
+        "title":"Water",
+        "price":0.99,
+        "category":"groceries",
+        "has_return_policy":true
+    },
+    {
+        "id":26,
+        "title":"Green Chili Pepper",
+        "price":0.99,
+        "category":"groceries",
+        "has_return_policy":true
+    },
+    {
+        "id":25,
+        "title":"Green Bell Pepper",
+        "price":1.29,
+        "category":"groceries",
+        "has_return_policy":true
+    },
+    {
+        "id":21,
+        "title":"Cucumber",
+        "price":1.49,
+        "category":"groceries",
+        "has_return_policy":true
+    },
+    {
+        "id":16,
+        "title":"Apple",
+        "price":1.99,
+        "category":"groceries",
+        "has_return_policy":true
+    },
+    {
+        "id":39,
+        "title":"Soft Drinks",
+        "price":1.99,
+        "category":"groceries",
+        "has_return_policy":true
+    },
+    {
+        "id":37,
+        "title":"Red Onions",
+        "price":1.99,
+        "category":"groceries",
+        "has_return_policy":true
+    },
+    {
+        "id":35,
+        "title":"Potatoes",
+        "price":2.29,
+        "category":"groceries",
+        "has_return_policy":true
+    },
+    {
+        "id":41,
+        "title":"Tissue Paper Box",
+        "price":2.49,
+        "category":"groceries",
+        "has_return_policy":true
+    }
+]
